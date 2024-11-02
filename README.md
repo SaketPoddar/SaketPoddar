@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaketPoddar
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning react-native with redux..
 - ⚡ Fun fact: creative mindset 
 
 <!---
