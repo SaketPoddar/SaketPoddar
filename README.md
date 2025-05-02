@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaketPoddar
 - 👀 I’m interested in web development & App Development
-- 🌱 I’m currently learning react-native with redux..
-- ⚡ Fun fact: creative mindset 
+- 🌱 I’m currently learning react-native
+ 
 
 <!---
 SaketPoddar/SaketPoddar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
